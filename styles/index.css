@@ -21,10 +21,11 @@ header,footer{
 
 footer{
 padding:48px;
-
-
 }
 main{
 
 flex-grow: 1;
+}
+.highlight{
+    color: blue;
 }
