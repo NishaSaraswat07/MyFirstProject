@@ -1,0 +1,30 @@
+html{
+    height:100vh;
+}
+*{
+    box-sizing: border-box;
+}
+    
+body{
+    display:flex;
+    flex-direction:column;
+    height:100%;
+    margin:0;
+}
+
+header,footer{
+    background-color: brown;
+    color: #ffffff;
+    padding:48px;
+    text-align: center;
+}
+
+footer{
+padding:48px;
+
+
+}
+main{
+
+flex-grow: 1;
+}
